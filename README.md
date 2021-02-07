@@ -1,12 +1,21 @@
-# Portfolio
+# Bootcamp Portfolio
 
-Please click Hike Now at the bottom right of the portfolio to view the group project.
-
-## User Story
+![Screenshot of SLP Goalden Login Page](./02-portfolio-2.jpg.png)
+## Group Project 2:
 
 ```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio
-SO THAT I can review samples of the developer's work
+This student portfolio currently contains a new project called SLP Goalden. 
+Please click link to view the project:
 ```
 
+https://mighty-falls-97052.herokuapp.com/
+
+````````
+Please click SLP Goalden on the portfolio to view the group project.
+
+``````
+## Description 
+
+SLP Goalden is a simple application designed to help speech language pathologists keep track of student goals and goal progress.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
